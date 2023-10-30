@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+} 
+.icon-rotate{
+	transform:rotate(60deg);
+}
+#sec1-padding{
+	padding-top:80px;
+}
+.accordion-button:focus{
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed) {
+    box-shadow: none !important;
+}
